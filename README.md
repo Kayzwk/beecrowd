@@ -1,1 +1,1 @@
-Beecrowd
+Repositório das resoluções do beecrowd
